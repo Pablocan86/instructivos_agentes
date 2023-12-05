@@ -1,0 +1,83 @@
+[
+  {
+    "id": 13,
+    "titulo": "CREAR CARPETA NUEVA EN WINDOWS",
+    "categoria": "Pases",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica como crear una carpeta en Windows",
+    "video": "https://www.youtube.com/watch?v=0NN8F_-loKMa"
+  },
+
+  {
+    "id": 14,
+    "titulo": "CREAR Y GUARDAR ARCHIVO EN WORD",
+    "categoria": "Masivos",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica abrir y crear un archivo en Microsoft Word",
+    "video": ""
+  },
+  {
+    "id": 15,
+    "titulo": "CREAR Y GUARDAR ARCHIVO EN EXCELL",
+    "categoria": "Masivos",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica abrir y crear un archivo en Microsoft Excell",
+    "video": ""
+  },
+  {
+    "id": 16,
+    "titulo": "CREAR UNA TABLA EN EXCEL",
+    "categoria": "Masivos",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica como crear una table en Microsoft Excell",
+    "video": ""
+  },
+  {
+    "id": 17,
+    "titulo": "FORMATO EN MICROSFT WORD",
+    "categoria": "Masivos",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica como darle formato al texto de un documento de Word",
+    "video": ""
+  },
+  {
+    "id": 18,
+    "titulo": "FORMATO EN EXCELL",
+    "categoria": "Masivos",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica como darle formato al texto y a la tabla en Excell",
+    "video": ""
+  },
+  {
+    "id": 19,
+    "titulo": "INSERTAR UNA IMAGEN",
+    "categoria": "Masivos",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica como insertar imágenes en Word y Excell",
+    "video": ""
+  },
+  {
+    "id": 20,
+    "titulo": "CONOCIENDO GOOGLE DRIVE",
+    "categoria": "Pases",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explican las funcionalidades básicas de Google Drive",
+    "video": ""
+  },
+  {
+    "id": 21,
+    "titulo": "IMPRIMIR",
+    "categoria": "Despachos",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica como imprimir y tener algunas cuestiones en cuenta previas",
+    "video": ""
+  },
+  {
+    "id": 22,
+    "titulo": "GUARDAR UNA IMAGEN EN PDF",
+    "categoria": "Despachos",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica como guardar una imagen en pdf de forma sencilla",
+    "video": ""
+  }
+]
