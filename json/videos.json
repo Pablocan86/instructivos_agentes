@@ -95,5 +95,13 @@
     "image": "./assets/img/video.png",
     "descripcion": "En este video se explica como reasignar un expediente de familia a patrimonial o viceversa",
     "video": "./assets/videos/reasignacion_incompetencia_mismo_fuero.mp4"
+  },
+  {
+    "id": 13,
+    "titulo": "BLOQUE VENTANA EMERGENTE",
+    "categoria": "Despachos",
+    "image": "./assets/img/video.png",
+    "descripcion": "En este video se explica como solucionar el problema del bloqueo de ventanas emergentes",
+    "video": "./assets/videos/bloque_ventana_emergente.mp4"
   }
 ]
