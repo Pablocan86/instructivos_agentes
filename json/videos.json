@@ -98,7 +98,7 @@
   },
   {
     "id": 13,
-    "titulo": "BLOQUE VENTANA EMERGENTE",
+    "titulo": "BLOQUEO VENTANA EMERGENTE",
     "categoria": "Despachos",
     "image": "./assets/img/video.png",
     "descripcion": "En este video se explica como solucionar el problema del bloqueo de ventanas emergentes",
