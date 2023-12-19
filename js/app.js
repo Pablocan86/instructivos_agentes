@@ -66,12 +66,15 @@ const programas = document.querySelector("#programas");
 const programasResultados = document.querySelector("#resultadosProgramas");
 
 programas.addEventListener("click", function () {
-  divResultados.classList.replace("resultados", "ocultar");
+  divResultados.classList.add("ocultar");
+  divResultados.classList.remove("resultados");
+
   programasResultados.classList.replace("ocultar", "resultados");
 });
 
 lex100.addEventListener("click", function () {
-  programasResultados.classList.replace("resultados", "ocultar");
+  programasResultados.classList.add("ocultar");
+  programasResultados.classList.remove("resultados");
   divResultados.classList.replace("ocultar", "resultados");
 });
 

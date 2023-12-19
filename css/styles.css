@@ -168,7 +168,7 @@ main h2 {
 .videosCoincidencia {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
   border-radius: 10px;
   width: 450px;
@@ -213,8 +213,14 @@ a {
 }
 
 footer {
-  height: 10vh;
+  height: 5vh;
   background-color: rgb(25, 118, 210);
+  color: white;
+}
+
+footer p {
+  text-align: center;
+  padding-top: 5px;
 }
 
 @media screen and (max-width: 767px) {
@@ -255,6 +261,13 @@ footer {
     flex-direction: column;
     gap: 10px;
   }
+
+  .resultados {
+    flex-direction: column;
+    display: flex;
+    flex-direction: column;
+  }
+
   .videoLista {
     margin-left: 10px;
     margin-right: 10px;
@@ -281,7 +294,13 @@ footer {
     box-shadow: 0px 0px 10px gray;
   }
   .videosCoincidencia {
-    margin: 5px 1px 5px 1px;
+    width: 90%;
+    height: 400px;
+    margin: 5px;
+  }
+
+  .descripcion {
+    text-align: justify;
   }
 
   .imagenVideo {
