@@ -103,5 +103,13 @@
     "image": "./assets/img/video.png",
     "descripcion": "En este video se explica como solucionar el problema del bloqueo de ventanas emergentes",
     "video": "./assets/videos/bloque_ventana_emergente.mp4"
+  },
+  {
+    "id": 13,
+    "titulo": "INICIADO POR EL JUZGADO",
+    "categoria": "Despachos",
+    "image": "./assets/img/video.png",
+    "descripcion": "En este video se explica como ingresar una causa enviada por un juzgado",
+    "video": "./assets/videos/iniciado_por_el_juzgado.mp4"
   }
 ]
