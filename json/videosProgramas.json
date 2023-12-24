@@ -1,6 +1,6 @@
 [
   {
-    "id": 13,
+    "id": 14,
     "titulo": "CREAR CARPETA NUEVA EN WINDOWS",
     "categoria": "Programas",
     "image": "./assets/img/windows.png",
@@ -9,7 +9,7 @@
   },
 
   {
-    "id": 14,
+    "id": 15,
     "titulo": "CREAR Y GUARDAR ARCHIVO EN WORD",
     "categoria": "Word",
     "image": "./assets/img/windows.png",
@@ -17,23 +17,23 @@
     "video": "./assets/videos/crear_guardar_archivo_word.mp4"
   },
   {
-    "id": 15,
+    "id": 16,
     "titulo": "CREAR Y GUARDAR ARCHIVO EN EXCEL",
     "categoria": "Excel",
     "image": "./assets/img/windows.png",
     "descripcion": "En este video se explica abrir y crear un archivo en Microsoft Excel",
-    "video": ""
+    "video": "./assets/videos/crear_guardar_archivo_excel.mp4"
   },
   {
-    "id": 16,
+    "id": 17,
     "titulo": "CREAR UNA TABLA EN EXCEL",
     "categoria": "Excel",
     "image": "./assets/img/windows.png",
     "descripcion": "En este video se explica como crear una table en Microsoft Excell",
-    "video": ""
+    "video": "./assets/videos/crear_tabla_excel.mp4"
   },
   {
-    "id": 17,
+    "id": 18,
     "titulo": "FORMATO EN MICROSFT WORD",
     "categoria": "Word",
     "image": "./assets/img/windows.png",
@@ -41,7 +41,7 @@
     "video": ""
   },
   {
-    "id": 18,
+    "id": 19,
     "titulo": "FORMATO EN EXCEL",
     "categoria": "Excel",
     "image": "./assets/img/windows.png",
@@ -49,7 +49,15 @@
     "video": ""
   },
   {
-    "id": 19,
+    "id": 20,
+    "titulo": "MODIFICAR ANCHO Y ALTO TABLA EXCEL",
+    "categoria": "Excel",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica como modificar el alto a las filas y el ancho a las columnas en Excel",
+    "video": "./assets/videos/modificar_alto_ancho_excel.mp4"
+  },
+  {
+    "id": 21,
     "titulo": "INSERTAR UNA IMAGEN",
     "categoria": "Varios",
     "image": "./assets/img/windows.png",
@@ -57,7 +65,7 @@
     "video": ""
   },
   {
-    "id": 20,
+    "id": 22,
     "titulo": "CONOCIENDO GOOGLE DRIVE",
     "categoria": "Google Drive",
     "image": "./assets/img/windows.png",
@@ -65,7 +73,7 @@
     "video": ""
   },
   {
-    "id": 21,
+    "id": 23,
     "titulo": "IMPRIMIR",
     "categoria": "Varios",
     "image": "./assets/img/windows.png",
@@ -73,7 +81,7 @@
     "video": ""
   },
   {
-    "id": 22,
+    "id": 24,
     "titulo": "GUARDAR UNA IMAGEN EN PDF",
     "categoria": "PDF",
     "image": "./assets/img/windows.png",
