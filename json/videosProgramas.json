@@ -42,11 +42,11 @@
   },
   {
     "id": 19,
-    "titulo": "FORMATO EN EXCEL",
+    "titulo": "FORMATO FUENTE CELDAS EXCEL",
     "categoria": "Excel",
     "image": "./assets/img/windows.png",
-    "descripcion": "En este video se explica como darle formato al texto y a la tabla en Excell",
-    "video": ""
+    "descripcion": "En este video se explica como darle formato al texto de las celdas en Excel",
+    "video": "./assets/videos/cambiar_fuente_celdas.mp4"
   },
   {
     "id": 20,
