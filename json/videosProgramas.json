@@ -3,7 +3,7 @@
     "id": 14,
     "titulo": "CREAR CARPETA NUEVA EN WINDOWS",
     "categoria": "Programas",
-    "image": "./assets/img/windows.png",
+    "image": "./assets/img/windows.webp",
     "descripcion": "En este video se explica como crear una carpeta en Windows",
     "video": "./assets/videos/crear_una_carpeta.mp4"
   },
@@ -12,79 +12,87 @@
     "id": 15,
     "titulo": "CREAR Y GUARDAR ARCHIVO EN WORD",
     "categoria": "Word",
-    "image": "./assets/img/windows.png",
-    "descripcion": "En este video se explica abrir y crear un archivo en Microsoft Word",
+    "image": "./assets/img/windows.webp",
+    "descripcion": "En este video se explica como crear y guardar un archivo en Microsoft Word",
     "video": "./assets/videos/crear_guardar_archivo_word.mp4"
   },
   {
     "id": 16,
     "titulo": "CREAR Y GUARDAR ARCHIVO EN EXCEL",
     "categoria": "Excel",
-    "image": "./assets/img/windows.png",
-    "descripcion": "En este video se explica abrir y crear un archivo en Microsoft Excel",
+    "image": "./assets/img/windows.webp",
+    "descripcion": "En este video se explica como crear y guadar un archivo en Microsoft Excel",
     "video": "./assets/videos/crear_guardar_archivo_excel.mp4"
   },
   {
     "id": 17,
     "titulo": "CREAR UNA TABLA EN EXCEL",
     "categoria": "Excel",
-    "image": "./assets/img/windows.png",
-    "descripcion": "En este video se explica como crear una table en Microsoft Excell",
+    "image": "./assets/img/windows.webp",
+    "descripcion": "En este video se explica como crear una tabla en Microsoft Excel",
     "video": "./assets/videos/crear_tabla_excel.mp4"
   },
   {
     "id": 18,
-    "titulo": "FORMATO EN MICROSFT WORD",
+    "titulo": "ESTILO DE TEXTO EN WORD",
     "categoria": "Word",
-    "image": "./assets/img/windows.png",
-    "descripcion": "En este video se explica como darle formato al texto de un documento de Word",
-    "video": ""
+    "image": "./assets/img/windows.webp",
+    "descripcion": "En este video se explica como darle formato al texto de un documento de Microsoft Word",
+    "video": "./assets/videos/cambiar_estilo_letra_word.mp4"
   },
   {
     "id": 19,
-    "titulo": "FORMATO FUENTE CELDAS EXCEL",
+    "titulo": "ESTILO DE TEXTO EXCEL",
     "categoria": "Excel",
-    "image": "./assets/img/windows.png",
-    "descripcion": "En este video se explica como darle formato al texto de las celdas en Excel",
+    "image": "./assets/img/windows.webp",
+    "descripcion": "En este video se explica como darle formato al texto de las celdas en Microsoft Excel",
     "video": "./assets/videos/cambiar_fuente_celdas.mp4"
   },
   {
     "id": 20,
-    "titulo": "MODIFICAR ANCHO Y ALTO TABLA EXCEL",
+    "titulo": "MODIFICAR UBICACION CONTENIDO DE CELDAS EXCEL",
     "categoria": "Excel",
-    "image": "./assets/img/windows.png",
-    "descripcion": "En este video se explica como modificar el alto a las filas y el ancho a las columnas en Excel",
-    "video": "./assets/videos/modificar_alto_ancho_excel.mp4"
+    "image": "./assets/img/windows.webp",
+    "descripcion": "En este video se explica como modificar la posición del contenido de las celdas en Microsoft Excel",
+    "video": "./assets/videos/cambio_ubicacion_contenido.mp4"
   },
   {
     "id": 21,
+    "titulo": "MODIFICAR ANCHO Y ALTO TABLA EXCEL",
+    "categoria": "Excel",
+    "image": "./assets/img/windows.webp",
+    "descripcion": "En este video se explica como modificar el alto a las filas y el ancho a las columnas en Microsoft Excel",
+    "video": "./assets/videos/modificar_alto_ancho_excel.mp4"
+  },
+  {
+    "id": 22,
     "titulo": "INSERTAR UNA IMAGEN",
     "categoria": "Varios",
-    "image": "./assets/img/windows.png",
+    "image": "./assets/img/windows.webp",
     "descripcion": "En este video se explica como insertar imágenes en Word y Excell",
     "video": ""
   },
   {
-    "id": 22,
+    "id": 23,
     "titulo": "CONOCIENDO GOOGLE DRIVE",
     "categoria": "Google Drive",
-    "image": "./assets/img/windows.png",
-    "descripcion": "En este video se explican las funcionalidades básicas de Google Drive",
-    "video": ""
-  },
-  {
-    "id": 23,
-    "titulo": "IMPRIMIR",
-    "categoria": "Varios",
-    "image": "./assets/img/windows.png",
-    "descripcion": "En este video se explica como imprimir y tener algunas cuestiones en cuenta previas",
+    "image": "./assets/img/windows.webp",
+    "descripcion": "En este video se da un pantallo de lo que es Google Drive",
     "video": ""
   },
   {
     "id": 24,
+    "titulo": "GUARDAR MAIL COMO PDF",
+    "categoria": "Varios",
+    "image": "./assets/img/windows.webp",
+    "descripcion": "En este video se explica como guardar un mail directamente como pdf",
+    "video": "./assets/videos/guardar_mail_pdf.mp4"
+  },
+  {
+    "id": 25,
     "titulo": "GUARDAR UNA IMAGEN EN PDF",
     "categoria": "PDF",
-    "image": "./assets/img/windows.png",
+    "image": "./assets/img/windows.webp",
     "descripcion": "En este video se explica como guardar una imagen en pdf de forma sencilla",
     "video": "./assets/videos/convertir_imagen_pdf.mp4"
   }

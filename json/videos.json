@@ -3,7 +3,7 @@
     "id": 1,
     "titulo": "RECEPCIÓN DE PASES DESDE EXPEDIENTE",
     "categoria": "Pases",
-    "image": "./assets/img/video.png",
+    "image": "./assets/img/video.webp",
     "descripcion": "En este video se explica como recibir pases de expediente remitidos por otras oficinas a nuetras oficina",
     "video": "./assets/videos/recibir_pase_desde_expediente.mp4"
   },
@@ -12,7 +12,7 @@
     "id": 2,
     "titulo": "RECIBIR PASE DESDE MASIVOS",
     "categoria": "Masivos",
-    "image": "./assets/img/video.png",
+    "image": "./assets/img/video.webp",
     "descripcion": "En este video se explica como recibir un expediente desde la pantalla de Masivos",
     "video": "./assets/videos/recibir_pase_desde_masivos.mp4"
   },
@@ -20,7 +20,7 @@
     "id": 3,
     "titulo": "REASIGNACION POR INCOMPETENCIA INFORMATIZADA",
     "categoria": "Masivos",
-    "image": "./assets/img/video.png",
+    "image": "./assets/img/video.webp",
     "descripcion": "En este video se explica como reasignar una causa cuando viene por incompetencia de otro fuero, que utiliza el Sistema Lex-100",
     "video": "./assets/videos/incompetencia_informatizada.mp4"
   },
@@ -28,7 +28,7 @@
     "id": 4,
     "titulo": "REASIGNACION POR RECHAZO DE CONEXIDAD",
     "categoria": "Masivos",
-    "image": "./assets/img/video.png",
+    "image": "./assets/img/video.webp",
     "descripcion": "En este video se explica como reasignar una causa cuando el juzgado asignado rechaza la conexidad automática",
     "video": "./assets/videos/reasignacion_rechazo_conexidad.mp4"
   },
@@ -36,7 +36,7 @@
     "id": 5,
     "titulo": "REASIGNACION POR RECUSACION SIN CAUSA",
     "categoria": "Masivos",
-    "image": "./assets/img/video.png",
+    "image": "./assets/img/video.webp",
     "descripcion": "En este video se explica como reasignar una causa cuando el juzgado da lugar a la Recusación sin causa",
     "video": "./assets/videos/reasignacion_recusacion_sin_causa.mp4"
   },
@@ -44,7 +44,7 @@
     "id": 6,
     "titulo": "REASIGNACION POR RECUSACION CON CAUSA",
     "categoria": "Masivos",
-    "image": "./assets/img/video.png",
+    "image": "./assets/img/video.webp",
     "descripcion": "En este video se explica como reasignar una causa cuando el juzgado da lugar a la Recusación con causa",
     "video": ""
   },
@@ -52,7 +52,7 @@
     "id": 7,
     "titulo": "REASIGNACION POR EXCUSACION",
     "categoria": "Masivos",
-    "image": "./assets/img/video.png",
+    "image": "./assets/img/video.webp",
     "descripcion": "En este video se explica como reasignar una causa cuando el JUEZ se Excusa de seguir entendiendo en la causa",
     "video": ""
   },
@@ -60,7 +60,7 @@
     "id": 8,
     "titulo": "HACER PASE DE EXPEDIENTE",
     "categoria": "Pases",
-    "image": "./assets/img/video.png",
+    "image": "./assets/img/video.webp",
     "descripcion": "En este video se explica como hacer un pase de un expediente que tenemos que remitir a otra oficina",
     "video": "./assets/videos/crear_pase.mp4"
   },
@@ -68,7 +68,7 @@
     "id": 9,
     "titulo": "CONFECCION DE DESPACHOS",
     "categoria": "Despachos",
-    "image": "./assets/img/video.png",
+    "image": "./assets/img/video.webp",
     "descripcion": "En este video se explica como hacer un proyecto para confeccionar un despacho",
     "video": ""
   },
@@ -76,7 +76,7 @@
     "id": 10,
     "titulo": "ELEVACIONES ABIERTAS - DESPACHO",
     "categoria": "Despachos",
-    "image": "./assets/img/video.png",
+    "image": "./assets/img/video.webp",
     "descripcion": "En este video se explica que hacer en caso de que se encuentra abierta una elevacion de un expediente de otro fuero",
     "video": "./assets/videos/despacho_elevaciones_abiertas.mp4"
   },
@@ -84,7 +84,7 @@
     "id": 11,
     "titulo": "AGREGAR VINCULOS A DESPACHOS",
     "categoria": "Despachos",
-    "image": "./assets/img/video.png",
+    "image": "./assets/img/video.webp",
     "descripcion": "En este video se explica como incrustar vínculos en los despachos",
     "video": "./assets/videos/generar_vinculos.mp4"
   },
@@ -92,7 +92,7 @@
     "id": 12,
     "titulo": "REASIGNACION POR INCOMPETENCIA DEL FUERO",
     "categoria": "Despachos",
-    "image": "./assets/img/video.png",
+    "image": "./assets/img/video.webp",
     "descripcion": "En este video se explica como reasignar un expediente de familia a patrimonial o viceversa",
     "video": "./assets/videos/reasignacion_incompetencia_mismo_fuero.mp4"
   },
@@ -100,7 +100,7 @@
     "id": 13,
     "titulo": "BLOQUEO VENTANA EMERGENTE",
     "categoria": "Despachos",
-    "image": "./assets/img/video.png",
+    "image": "./assets/img/video.webp",
     "descripcion": "En este video se explica como solucionar el problema del bloqueo de ventanas emergentes",
     "video": "./assets/videos/bloque_ventana_emergente.mp4"
   },
@@ -108,7 +108,7 @@
     "id": 13,
     "titulo": "INICIADO POR EL JUZGADO",
     "categoria": "Despachos",
-    "image": "./assets/img/video.png",
+    "image": "./assets/img/video.webp",
     "descripcion": "En este video se explica como ingresar una causa enviada por un juzgado",
     "video": "./assets/videos/iniciado_por_el_juzgado.mp4"
   }
