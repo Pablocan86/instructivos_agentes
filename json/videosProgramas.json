@@ -66,14 +66,6 @@
   },
   {
     "id": 22,
-    "titulo": "INSERTAR UNA IMAGEN",
-    "categoria": "Varios",
-    "image": "./assets/img/windows.webp",
-    "descripcion": "En este video se explica como insertar imágenes en Word y Excell",
-    "video": ""
-  },
-  {
-    "id": 23,
     "titulo": "CONOCIENDO GOOGLE DRIVE",
     "categoria": "Google Drive",
     "image": "./assets/img/windows.webp",
@@ -81,19 +73,19 @@
     "video": ""
   },
   {
-    "id": 24,
+    "id": 23,
     "titulo": "GUARDAR MAIL COMO PDF",
     "categoria": "Varios",
     "image": "./assets/img/windows.webp",
-    "descripcion": "En este video se explica como guardar un mail directamente como pdf",
+    "descripcion": "En este video se explica como guardar un mail directamente como un archivo pdf",
     "video": "./assets/videos/guardar_mail_pdf.mp4"
   },
   {
-    "id": 25,
+    "id": 24,
     "titulo": "GUARDAR UNA IMAGEN EN PDF",
     "categoria": "PDF",
     "image": "./assets/img/windows.webp",
-    "descripcion": "En este video se explica como guardar una imagen en pdf de forma sencilla",
+    "descripcion": "En este video se explica como guardar una imagen (jpeg, jpgo png) en  formato pdf de forma sencilla",
     "video": "./assets/videos/convertir_imagen_pdf.mp4"
   }
 ]
