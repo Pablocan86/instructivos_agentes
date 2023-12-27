@@ -70,7 +70,7 @@
     "categoria": "Google Drive",
     "image": "./assets/img/windows.webp",
     "descripcion": "En este video se da un pantallo de lo que es Google Drive",
-    "video": ""
+    "video": "./assets/videos/conociendo_googledrive.mp4"
   },
   {
     "id": 23,
